@@ -1,7 +1,0 @@
-# views:
-#   - name: orders_view
-
-#     cubes:
-#       - join_path: orders
-#         includes: 
-#           - count
